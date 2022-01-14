@@ -27,7 +27,7 @@
         "type": "package", 
         "package": {
             "name": "hkinahan/version2", 
-            "version": "1.0",
+            "version": "2.0",
             "source": {
                 "url": "https://github.com/HugoKinahanWTC/index-html-version-2.git", 
                 "type": "git", 
@@ -37,7 +37,6 @@
     }
 ],
     "require": {
-        "nesbot/carbon": "2.55.2",
-        "index.html": "dev/#v1.0"
+        "nesbot/carbon": "2.55.2"
     }
 }
