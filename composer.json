@@ -10,6 +10,32 @@
             "email": "hugo@example.com"
         }
     ],
+    "repositories": [
+        {
+        "type": "package", 
+        "package": {
+            "name": "hkinahan/version1", 
+            "version": "1.0",
+            "source": {
+                "url": "https://github.com/HugoKinahanWTC/index-html-version-1.git", 
+                "type": "git", 
+                "reference": "main"
+            }
+        }
+    },
+    {
+        "type": "package", 
+        "package": {
+            "name": "hkinahan/version2", 
+            "version": "1.0",
+            "source": {
+                "url": "https://github.com/HugoKinahanWTC/index-html-version-2.git", 
+                "type": "git", 
+                "reference": "main"
+            }
+        }
+    }
+],
     "require": {
         "nesbot/carbon": "2.55.2",
         "index.html": "dev/#v1.0"
