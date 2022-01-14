@@ -1,0 +1,13 @@
+{
+    "name": "hkinahan/testing-composer",
+    "description": "Challenge: Create a git repo with access to two different versions of index.html using Composer.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hugo Kinahan",
+            "email": "hugo@example.com"
+        }
+    ],
+    "require": {}
+}
