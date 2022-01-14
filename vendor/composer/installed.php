@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => 'dev-main',
-        'version' => 'dev-main',
+        'pretty_version' => 'v1.0',
+        'version' => '1.0.0.0',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '5e541d72344275aeac66e1dedfcbd82a7c921df8',
+        'reference' => NULL,
         'name' => 'hkinahan/testing-composer',
         'dev' => true,
     ),
     'versions' => array(
         'hkinahan/testing-composer' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
+            'pretty_version' => 'v1.0',
+            'version' => '1.0.0.0',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '5e541d72344275aeac66e1dedfcbd82a7c921df8',
+            'reference' => NULL,
             'dev_requirement' => false,
         ),
         'nesbot/carbon' => array(
