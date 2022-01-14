@@ -12,6 +12,6 @@
     ],
     "require": {
         "nesbot/carbon": "2.55.2",
-        "index.html": "dev/#v1.0"
+        "vendor/index.html": "dev-dev/#v2.0"
     }
 }
