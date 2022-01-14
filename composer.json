@@ -37,6 +37,8 @@
     }
 ],
     "require": {
-        "nesbot/carbon": "2.55.2"
+        "nesbot/carbon": "2.55.2",
+        "hkinahan/version1" : "1.0",
+        "hkinahan/version2" : "2.0"
     }
 }
