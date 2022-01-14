@@ -3,11 +3,14 @@
     "description": "Challenge: Create a git repo with access to two different versions of index.html using Composer.",
     "type": "project",
     "license": "MIT",
+    "version": "v1.0",
     "authors": [
         {
             "name": "Hugo Kinahan",
             "email": "hugo@example.com"
         }
     ],
-    "require": {}
+    "require": {
+        "nesbot/carbon": "2.55.2"
+    }
 }
