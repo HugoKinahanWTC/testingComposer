@@ -28,15 +28,6 @@
             'reference' => 'main',
             'dev_requirement' => false,
         ),
-        'hkinahan/version2' => array(
-            'pretty_version' => 'v2.0',
-            'version' => '2.0.0.0',
-            'type' => 'library',
-            'install_path' => __DIR__ . '/../hkinahan/version2',
-            'aliases' => array(),
-            'reference' => 'main',
-            'dev_requirement' => false,
-        ),
         'nesbot/carbon' => array(
             'pretty_version' => '2.55.2',
             'version' => '2.55.2.0',

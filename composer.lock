@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3dc18f5121b5fc7f0498d77eb2010143",
+    "content-hash": "e95e27328b71330dca4b735e9100f83c",
     "packages": [
         {
             "name": "hkinahan/version1",
@@ -12,16 +12,6 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/HugoKinahanWTC/index-html-version-1.git",
-                "reference": "main"
-            },
-            "type": "library"
-        },
-        {
-            "name": "hkinahan/version2",
-            "version": "v2.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/HugoKinahanWTC/index-html-version-2.git",
                 "reference": "main"
             },
             "type": "library"

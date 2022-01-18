@@ -22,23 +22,10 @@
                 "reference": "main"
             }
         }
-    },
-    {
-        "type": "package", 
-        "package": {
-            "name": "hkinahan/version2", 
-            "version": "v2.0",
-            "source": {
-                "url": "https://github.com/HugoKinahanWTC/index-html-version-2.git", 
-                "type": "git", 
-                "reference": "main"
-            }
-        }
     }
 ],
     "require": {
         "nesbot/carbon": "2.55.2",
-        "hkinahan/version1" : "1.0",
-        "hkinahan/version2" : "2.0"
+        "hkinahan/version1" : "1.0"
     }
 }

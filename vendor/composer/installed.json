@@ -14,19 +14,6 @@
             "install-path": "../hkinahan/version1"
         },
         {
-            "name": "hkinahan/version2",
-            "version": "v2.0",
-            "version_normalized": "2.0.0.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/HugoKinahanWTC/index-html-version-2.git",
-                "reference": "main"
-            },
-            "type": "library",
-            "installation-source": "source",
-            "install-path": "../hkinahan/version2"
-        },
-        {
             "name": "nesbot/carbon",
             "version": "2.55.2",
             "version_normalized": "2.55.2.0",
